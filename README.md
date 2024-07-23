@@ -18,3 +18,5 @@ A partir daí, são carregados e processados novamente para gerar dados finais n
 
 **Visualização:**
 Os dados carregados no bucket Silver são usados para criar dashboards e relatórios interativos no Metabase.
+
+**Alguns processos foram desenvolvidos de forma explícita para fins acadêmicos e de aprendizado. Recomendo que, ao adaptar ou implementar esses processos, você siga as melhores práticas de desenvolvimento e segurança para garantir um sistema robusto e seguro.**
